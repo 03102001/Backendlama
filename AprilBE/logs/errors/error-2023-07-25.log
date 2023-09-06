@@ -1,0 +1,36 @@
+error: Jul-25-2023 08:33:41: 	/api/product/create - POST - null - 404 - ::ffff:127.0.0.1 - notNull Violation: Product.ProductName cannot be null,
+notNull Violation: Product.ProductDesc cannot be null,
+notNull Violation: Product.CreatedBy cannot be null
+error: Jul-25-2023 08:34:01: 	/api/product/create - POST - null - 404 - ::ffff:127.0.0.1 - notNull Violation: Product.ProductName cannot be null,
+notNull Violation: Product.ProductDesc cannot be null,
+notNull Violation: Product.CreatedBy cannot be null
+error: Jul-25-2023 08:37:51: 	/api/product/create - POST - null - 404 - ::ffff:127.0.0.1 - notNull Violation: Product.CreatedBy cannot be null
+error: Jul-25-2023 08:42:56: 	/api/product/create - POST - null - 404 - ::ffff:127.0.0.1 - notNull Violation: Product.CreatedBy cannot be null
+error: Jul-25-2023 08:43:12: 	/api/product/create - POST - null - 404 - ::ffff:127.0.0.1 - notNull Violation: Product.CreatedBy cannot be null
+error: Jul-25-2023 08:45:38: 	/api/product/create - POST - null - 404 - ::ffff:127.0.0.1 - notNull Violation: Product.CreatedBy cannot be null
+error: Jul-25-2023 08:49:26: 	/api/product/create - POST - null - 404 - ::ffff:127.0.0.1 - notNull Violation: Product.CreatedBy cannot be null
+error: Jul-25-2023 09:18:20: 	/api/product/update/EQP_230710043243 - PUT - null - 404 - ::ffff:127.0.0.1 - servicesObj[services].getById is not a function
+error: Jul-25-2023 09:22:16: 	/api/product/update/:EQP_230710043243 - PUT - null - 404 - ::ffff:127.0.0.1 - servicesObj[services].getById is not a function
+error: Jul-25-2023 09:36:59: 	/api/product/update/EQP_230710043243 - PUT - null - 404 - ::ffff:127.0.0.1 - servicesObj[services].getById is not a function
+error: Jul-25-2023 11:19:23: 	/api/product/update/EQP_230710043243 - PUT - null - 404 - ::ffff:127.0.0.1 - id is not defined
+error: Jul-25-2023 11:25:20: 	/api/product/update/EQP_230710043243 - PUT - null - 404 - ::ffff:127.0.0.1 - id is not defined
+error: Jul-25-2023 11:51:35: 	/api/product/update/EQP_230710043243 - PUT - null - 404 - ::ffff:127.0.0.1 - id is not defined
+error: Jul-25-2023 11:52:26: 	/api/product/update/EQP_230710043243 - PUT - null - 404 - ::ffff:127.0.0.1 - id is not defined
+error: Jul-25-2023 14:01:57: 	/api/department/update/EQP_230712085003 - PUT - null - 404 - ::ffff:127.0.0.1 - servicesObj[services].getById is not a function
+error: Jul-25-2023 14:08:52: 	/api/gatepassdetail/create - POST - null - 404 - ::ffff:127.0.0.1 - invalid input syntax for type integer: "GTPD_230725020851"
+error: Jul-25-2023 14:10:10: 	/api/gatepassdetail/create - POST - null - 404 - ::ffff:127.0.0.1 - invalid input syntax for type integer: "GTPD_230725021009"
+error: Jul-25-2023 14:24:26: 	/api/gatepassdetail/create - POST - null - 404 - ::ffff:127.0.0.1 - invalid input syntax for type integer: "GTPD_230725022425"
+error: Jul-25-2023 14:26:16: 	/api/gatepassdetail/create - POST - null - 404 - ::ffff:127.0.0.1 - invalid input syntax for type integer: "GTPD_230725022615"
+error: Jul-25-2023 14:49:08: 	/api/gatepassdetail/create - POST - null - 404 - ::ffff:127.0.0.1 - invalid input syntax for type integer: "GTPD_230725024907"
+error: Jul-25-2023 14:49:57: 	/api/gatepassdetail/create - POST - null - 404 - ::ffff:127.0.0.1 - invalid input syntax for type integer: "GTPD_230725024957"
+error: Jul-25-2023 15:03:24: 	/api/gatepassdetail/update/1 - PUT - null - 404 - ::ffff:127.0.0.1 - servicesObj[services].getById is not a function
+error: Jul-25-2023 15:03:51: 	/api/gatepassdetail/update/1 - PUT - null - 404 - ::ffff:127.0.0.1 - Cannot read properties of null (reading 'dataValues')
+error: Jul-25-2023 15:04:54: 	/api/gatepassdetail/update/1 - PUT - null - 404 - ::ffff:127.0.0.1 - Cannot read properties of null (reading 'dataValues')
+error: Jul-25-2023 15:05:58: 	/api/gatepassdetail/update/1 - PUT - null - 404 - ::ffff:127.0.0.1 - Cannot read properties of null (reading 'dataValues')
+error: Jul-25-2023 15:07:48: 	/api/gatepassdetail/update/1 - PUT - null - 404 - ::ffff:127.0.0.1 - Validation error
+error: Jul-25-2023 15:09:22: 	/api/gatepassdetail/update/1 - PUT - null - 404 - ::ffff:127.0.0.1 - Cannot read properties of null (reading 'dataValues')
+error: Jul-25-2023 15:10:11: 	/api/gatepassdetail/update/1 - PUT - null - 404 - ::ffff:127.0.0.1 - Cannot read properties of null (reading 'dataValues')
+error: Jul-25-2023 15:12:01: 	/api/gatepassdetail/update/1 - PUT - null - 404 - ::ffff:127.0.0.1 - Cannot read properties of null (reading 'dataValues')
+error: Jul-25-2023 15:14:59: 	/api/gatepassdetail/update/1 - PUT - null - 404 - ::ffff:127.0.0.1 - Cannot read properties of null (reading 'dataValues')
+error: Jul-25-2023 16:17:31: 	/api/gatepass/update/GTP_230725041507 - PUT - null - 404 - ::ffff:127.0.0.1 - servicesObj[services].getById is not a function
+error: Jul-25-2023 16:18:02: 	/api/gatepass/update/GTP_230725041507 - PUT - null - 404 - ::ffff:127.0.0.1 - Cannot read properties of null (reading 'dataValues')

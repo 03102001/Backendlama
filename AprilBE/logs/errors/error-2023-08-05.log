@@ -1,0 +1,8 @@
+error: Aug-05-2023 09:05:19: 	/api/HrEmployee/create - POST - EMP00001 - 404 - ::ffff:127.0.0.1 - notNull Violation: HrEmployee.BuID cannot be null,
+notNull Violation: HrEmployee.EmplSapId cannot be null,
+notNull Violation: HrEmployee.EmployeeName cannot be null,
+notNull Violation: HrEmployee.AuthenticationType cannot be null,
+notNull Violation: HrEmployee.IsActive cannot be null,
+notNull Violation: HrEmployee.IsLock cannot be null,
+notNull Violation: HrEmployee.CreatedBy cannot be null
+error: Aug-05-2023 09:15:53: 	/api/HrEmployee/create - POST - EMP00001 - 404 - ::ffff:127.0.0.1 - insert or update on table "hremployee" violates foreign key constraint "hremployee_bu_id_fkey"
